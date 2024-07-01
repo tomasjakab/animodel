@@ -1,6 +1,7 @@
 # Animodel - Benchmark for 3D Reconstruction of Animals
 
 Published in *[Farm3D: Learning Articulated 3D Animals by Distilling 2D Diffusion](https://farm3d.github.io).*
+
 [Tomas Jakab*](http://www.robots.ox.ac.uk/~tomj), [Ruining Li*](https://ruiningli.com/), Shangzhe Wu, Christian Rupprecht, Andrea Vedaldi. University of Oxford. In 3DV 2024. (* equal contribution)
 
 Animodel is a synthetic benchmark designed for evaluating the quality of single-view 3D reconstructions of articulated animals. It consists of 3,000 realistic renderings of horses, cows, and sheep, each accompanied by a corresponding 3D mesh. The benchmark evaluates the quality of the reconstructions using the Chamfer Distance metric.
